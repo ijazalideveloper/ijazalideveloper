@@ -6,13 +6,56 @@ I love sharing my knowledge through technical articles and contributing to the d
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
-| Front End | Back End and DBMS | App Development | Language | Cloud Platforms | Other Skills |
-|-----------|------------------|----------------|----------|----------------|--------------|
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Next JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) ![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) ![JEST](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) ![Node JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) ![Express JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) ![GraphQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg) | ![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) ![Azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg) | ![Material UI](https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg) ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) ![Canva](https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg) ![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg) ![JIRA](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg) |
-
----
+<table>
+  <tr>
+    <th>Front End</th>
+    <th>Back End and DBMS</th>
+    <th>App Development</th>
+    <th>Language</th>
+    <th>Cloud Platforms</th>
+    <th>Other Skills</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="JEST" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express JS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
